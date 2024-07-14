@@ -1,5 +1,5 @@
 
-![alt text](https://github.com/poyilee1030/image_mask_tool/blob/main/demo.png?raw=true)
+![alt text](https://github.com/poyilee1030/image_mask_tool/blob/main/input/demo.png?raw=true)
 
 step0
 download code and install library as requirements.txt
