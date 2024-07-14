@@ -1,7 +1,7 @@
 
 Original                   |  After mask
 :-------------------------:|:-------------------------:
-![](https://github.com/poyilee1030/image_mask_tool/blob/main/input/demo.png)  |  ![](https://github.com/poyilee1030/image_mask_tool/blob/main/input/demo.png)
+![](https://github.com/poyilee1030/image_mask_tool/blob/main/input/demo.png)  |  ![](https://github.com/poyilee1030/image_mask_tool/blob/main/output/demo.png)
 
 
 step0
