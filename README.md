@@ -3,7 +3,7 @@
 
 Solarized dark             |  Solarized Ocean
 :-------------------------:|:-------------------------:
-![]([https://...Dark.png](https://github.com/poyilee1030/image_mask_tool/blob/main/input/demo.png)  |  ![]([https://...Ocean.png](https://github.com/poyilee1030/image_mask_tool/blob/main/input/demo.png)
+![](https://github.com/poyilee1030/image_mask_tool/blob/main/input/demo.png)  |  ![](https://github.com/poyilee1030/image_mask_tool/blob/main/input/demo.png)
 step0
 download code and install library as requirements.txt
 
